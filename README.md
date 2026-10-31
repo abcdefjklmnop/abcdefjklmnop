@@ -1,13 +1,18 @@
 # Hi, I'm KMMA24 👋
 
-🔐 **Cybersecurity** | 💻 **Software & Web Developer**
+🔐 **Transitioning into Cybersecurity** | 💻 **Web & App Development**
 
-I work across cybersecurity and software/web development — building websites and applications, and analyzing web security. I combine hands-on experience with ongoing studies, growing my skills on both fronts.
+I'm currently studying Cybersecurity (online, at Kristiania University College) while
+building practical web/app development skills through hands-on projects. My background
+is in healthcare and care work, which gave me a strong foundation in structure,
+responsibility, discretion, and staying calm and reliable under pressure — qualities I
+now bring into tech and security.
 
-- 🎯 **Focus areas:** Cybersecurity, web & app development, website analysis
-- 🧑‍💻 **Currently:** Working while studying — balancing real projects with formal education
-- 🤝 **Collaboration:** I often build projects together with my partner, who has a background in IT, frontend, and web development
-- 📈 **Always learning:** Expanding my skills in both security and development
+- 🎓 **Currently studying:** Cybersecurity (Kristiania University College, ongoing)
+- 🎯 **Focus areas:** Cybersecurity fundamentals, web & app development, website analysis
+- 🤝 **Collaboration:** I build projects together with my partner, who has a background in IT, frontend, and web development
+- 🔑 **Security awareness:** Data protection, MFA/2FA, phishing awareness
+- 📈 **Always learning:** Growing my skills in both security and development
 
 ## 🛠️ Languages & Tools
 
@@ -15,8 +20,8 @@ I work across cybersecurity and software/web development — building websites a
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+Also comfortable with: Microsoft 365 (Word, Excel, Outlook), PDF/document handling, Adobe InDesign & Photoshop basics
 
 ## 📫 Contact
 
