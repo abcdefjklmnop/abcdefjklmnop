@@ -1,28 +1,35 @@
-# Hi, I'm KMMA24 👋
+# Karos Mokrian
 
-🔐 **Transitioning into Cybersecurity** | 💻 **Web & App Development**
+**Cybersecurity student and developer.** I build things to understand how they work — and I document what I actually tested, not what I wish were true.
 
-I'm currently studying Cybersecurity (online, at Kristiania University College) while
-building practical web/app development skills through hands-on projects. My background
-is in healthcare and care work, which gave me a strong foundation in structure,
-responsibility, discretion, and staying calm and reliable under pressure — qualities I
-now bring into tech and security.
+Currently studying cybersecurity at Kristiania University College, with a background in healthcare and care work. I write code, break it, and write down the difference.
 
-- 🎓 **Currently studying:** Cybersecurity (Kristiania University College, ongoing)
-- 🎯 **Focus areas:** Cybersecurity fundamentals, web & app development, website analysis
-- 🤝 **Collaboration:** I build projects together with my partner, who has a background in IT, frontend, and web development
-- 🔑 **Security awareness:** Data protection, MFA/2FA, phishing awareness
-- 📈 **Always learning:** Growing my skills in both security and development
+---
 
-## 🛠️ Languages & Tools
+## Projects
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+| Project | What it is | Stack |
+|---|---|---|
+| **[dwintel](https://github.com/abcdefjklmnop/dwintel)** | CTI watcher that polls 11 open threat feeds and prints only what is new. Zero dependencies. | Python · SQLite |
+| **[ordrekontor-demo](https://github.com/abcdefjklmnop/ordrekontor-demo)** | Order workspace where nothing is exported before a manual control is signed off. 14 tests. | JavaScript |
+| **[tilsyn-demo](https://github.com/abcdefjklmnop/tilsyn-demo)** | Tablet-friendly prototype turning structured observations into an editable note draft. | HTML · CSS · JS |
+| **[sikt-website](https://github.com/abcdefjklmnop/sikt-website)** | Business site with server-side validation and rate limiting. | Astro · Cloudflare |
+| **[shieldforge-design](https://github.com/abcdefjklmnop/shieldforge-design)** | Frontend concept for a security services site. | Next.js · TypeScript |
+| **[authorsearch-ios](https://github.com/abcdefjklmnop/authorsearch-ios)** | SwiftUI app for author search and paginated works from Open Library. | Swift · SwiftUI |
+| **[smartscanner-java](https://github.com/abcdefjklmnop/smartscanner-java)** | Console app for product lookup with scan history. | Java |
 
-Also comfortable with: Microsoft 365 (Word, Excel, Outlook), PDF/document handling, Adobe InDesign & Photoshop basics
+---
 
-## 📫 Contact
+## How I work
 
-karos.mokrian@gmail.com
+Every repository above has a `VERIFISERING.md` that states what was tested, how, and what was not. Where something is unverified — an API parser never run against live data, a build checked only in a simulator, a dependency that was never audited — it says so.
+
+I would rather list a limitation than have someone discover it later.
+
+**Interests:** application security · threat intelligence · secure development · detection
+
+---
+
+## Contact
+
+[karos.mokrian@gmail.com](mailto:karos.mokrian@gmail.com) · [LinkedIn](https://www.linkedin.com/in/karos-mokrian)
