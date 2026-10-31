@@ -32,4 +32,4 @@ I would rather list a limitation than have someone discover it later.
 
 ## Contact
 
-[karos.mokrian@gmail.com](mailto:karos.mokrian@gmail.com) · [LinkedIn](https://www.linkedin.com/in/karos-mokrian)
+[karos.mokrian@gmail.com](mailto:karos.mokrian@gmail.com)
